@@ -1,0 +1,16 @@
+{
+  "name": "bigdata",
+  "version": "1.0.0",
+  "description": "[Big Data](https://iscinc.github.io/bigdata) for / by iSC Inc. community.",
+  "keywords": [
+    "isc inc.",
+    "big data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iSCInc/bigdata.git"
+  },
+  "author": "Suriyaa Kudo",
+  "license": "Copyright (c)",
+  "readmeFilename": "README.md"
+}
